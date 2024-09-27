@@ -1,0 +1,370 @@
+Area Code,Area Code (M49),Area,Item Code,Item,Element Code,Element,Unit,Y2017,Y2017F,Y2018,Y2018F,Y2019,Y2019F,Y2020,Y2020F,Y2021,Y2021F,Y2022,Y2022F
+"1","'051","Armenia","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","3.21","E","3.28","E","3.36","E","3.37","E","3.66","E","4.11","E"
+"1","'051","Armenia","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.54","E",,,,,,,"0.57","E",,
+"1","'051","Armenia","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","0.97","E",,,,,,,"1","E",,
+"1","'051","Armenia","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.54","E",,,,,,,"0.39","E",,
+"1","'051","Armenia","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","0.43","E",,,,,,,"0.58","E",,
+"1","'051","Armenia","7011","Cost of fruits","6226","Value","PPP dollar per person per day","0.49","E",,,,,,,"0.88","E",,
+"1","'051","Armenia","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.12","E",,,,,,,"0.24","E",,
+"1","'051","Armenia","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%","49.3","E","49.5","E","53.3","E","53.8","E","54.1","E","54.9","E"
+"1","'051","Armenia","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No","1.4","E","1.4","E","1.5","E","1.5","E","1.5","E","1.5","E"
+"52","'031","Azerbaijan","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","2.87","E","2.93","E","3","E","3.09","E","3.28","E","3.74","E"
+"52","'031","Azerbaijan","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.45","E",,,,,,,"0.65","E",,
+"52","'031","Azerbaijan","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","0.73","E",,,,,,,"1.04","E",,
+"52","'031","Azerbaijan","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.46","E",,,,,,,"0.35","E",,
+"52","'031","Azerbaijan","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","0.32","E",,,,,,,"0.44","E",,
+"52","'031","Azerbaijan","7011","Cost of fruits","6226","Value","PPP dollar per person per day","0.26","E",,,,,,,"0.63","E",,
+"52","'031","Azerbaijan","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.13","E",,,,,,,"0.18","E",,
+"52","'031","Azerbaijan","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%","0.7","E","0.7","E","0.7","E","1.2","E","0.7","E","0.7","E"
+"52","'031","Azerbaijan","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No","0.1","E","0.1","E","0.1","E","0.1","E","0.1","E","0.1","E"
+"13","'048","Bahrain","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","3.07","E","3.15","E","3.25","E","3.48","E","3.67","E","4.22","E"
+"13","'048","Bahrain","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.65","E",,,,,,,"0.53","E",,
+"13","'048","Bahrain","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","1.01","E",,,,,,,"1.16","E",,
+"13","'048","Bahrain","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.37","E",,,,,,,"0.51","E",,
+"13","'048","Bahrain","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","0.69","E",,,,,,,"0.83","E",,
+"13","'048","Bahrain","7011","Cost of fruits","6226","Value","PPP dollar per person per day","0.47","E",,,,,,,"0.46","E",,
+"13","'048","Bahrain","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.18","E",,,,,,,"0.17","E",,
+"13","'048","Bahrain","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%",,"O",,"O",,"O",,"O",,"O",,"O"
+"13","'048","Bahrain","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No",,"O",,"O",,"O",,"O",,"O",,"O"
+"16","'050","Bangladesh","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","3.03","E","3.13","E","3.18","E","3.22","E","3.37","E","3.64","E"
+"16","'050","Bangladesh","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.36","E",,,,,,,"0.4","E",,
+"16","'050","Bangladesh","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","1.14","E",,,,,,,"1.37","E",,
+"16","'050","Bangladesh","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.23","E",,,,,,,"0.23","E",,
+"16","'050","Bangladesh","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","0.48","E",,,,,,,"0.67","E",,
+"16","'050","Bangladesh","7011","Cost of fruits","6226","Value","PPP dollar per person per day","0.56","E",,,,,,,"0.58","E",,
+"16","'050","Bangladesh","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.12","E",,,,,,,"0.12","E",,
+"16","'050","Bangladesh","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%","65","E","61.4","E","58.5","E","55.8","E","51.7","E","48.2","E"
+"16","'050","Bangladesh","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No","105.2","E","100.5","E","96.8","E","93.4","E","87.6","E","82.4","E"
+"18","'064","Bhutan","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","4.07","E","4.26","E","4.38","E","4.66","E","4.96","E","5.28","E"
+"18","'064","Bhutan","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.54","E",,,,,,,"0.56","E",,
+"18","'064","Bhutan","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","1.19","E",,,,,,,"1.34","E",,
+"18","'064","Bhutan","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.43","E",,,,,,,"0.4","E",,
+"18","'064","Bhutan","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","0.94","E",,,,,,,"0.95","E",,
+"18","'064","Bhutan","7011","Cost of fruits","6226","Value","PPP dollar per person per day","1.12","E",,,,,,,"1.45","E",,
+"18","'064","Bhutan","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.16","E",,,,,,,"0.25","E",,
+"18","'064","Bhutan","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%","28.9","E","14.1","E","18","E","17.4","E","21.5","E","5.3","E"
+"18","'064","Bhutan","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No","0.2","E","0.1","E","0.1","E","0.1","E","0.2","E","<0.1","E"
+"26","'096","Brunei Darussalam","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","3.98","E","4.11","E","4.17","E","4.25","E","4.48","E","4.9","E"
+"26","'096","Brunei Darussalam","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.67","E",,,,,,,"0.63","E",,
+"26","'096","Brunei Darussalam","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","1.12","E",,,,,,,"1.2","E",,
+"26","'096","Brunei Darussalam","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.4","E",,,,,,,"0.46","E",,
+"26","'096","Brunei Darussalam","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","0.93","E",,,,,,,"1.2","E",,
+"26","'096","Brunei Darussalam","7011","Cost of fruits","6226","Value","PPP dollar per person per day","0.89","E",,,,,,,"0.86","E",,
+"26","'096","Brunei Darussalam","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.1","E",,,,,,,"0.12","E",,
+"26","'096","Brunei Darussalam","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%",,"O",,"O",,"O",,"O",,"O",,"O"
+"26","'096","Brunei Darussalam","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No",,"O",,"O",,"O",,"O",,"O",,"O"
+"115","'116","Cambodia","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","3.72","E","3.81","E","3.89","E","4","E","4.18","E","4.5","E"
+"115","'116","Cambodia","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.5","E",,,,,,,"0.67","E",,
+"115","'116","Cambodia","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","1.23","E",,,,,,,"1.14","E",,
+"115","'116","Cambodia","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.42","E",,,,,,,"0.43","E",,
+"115","'116","Cambodia","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","0.79","E",,,,,,,"1.09","E",,
+"115","'116","Cambodia","7011","Cost of fruits","6226","Value","PPP dollar per person per day","0.53","E",,,,,,,"0.6","E",,
+"115","'116","Cambodia","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.15","E",,,,,,,"0.26","E",,
+"115","'116","Cambodia","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%",,"O",,"O",,"O",,"O",,"O",,"O"
+"115","'116","Cambodia","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No",,"O",,"O",,"O",,"O",,"O",,"O"
+"96","'344","China, Hong Kong SAR","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","3.64","E","3.81","E","3.93","E","4.13","E","4.43","E","4.88","E"
+"96","'344","China, Hong Kong SAR","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.74","E",,,,,,,"0.86","E",,
+"96","'344","China, Hong Kong SAR","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","1.03","E",,,,,,,"1.21","E",,
+"96","'344","China, Hong Kong SAR","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.3","E",,,,,,,"0.34","E",,
+"96","'344","China, Hong Kong SAR","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","0.74","E",,,,,,,"0.96","E",,
+"96","'344","China, Hong Kong SAR","7011","Cost of fruits","6226","Value","PPP dollar per person per day","0.67","E",,,,,,,"0.86","E",,
+"96","'344","China, Hong Kong SAR","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.16","E",,,,,,,"0.2","E",,
+"96","'344","China, Hong Kong SAR","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%",,"O",,"O",,"O",,"O",,"O",,"O"
+"96","'344","China, Hong Kong SAR","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No",,"O",,"O",,"O",,"O",,"O",,"O"
+"41","'156","China, mainland","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","2.68","E","2.74","E","2.91","E","3.11","E","3.08","E","3.35","E"
+"41","'156","China, mainland","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.43","E",,,,,,,"0.45","E",,
+"41","'156","China, mainland","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","0.67","E",,,,,,,"0.9","E",,
+"41","'156","China, mainland","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.28","E",,,,,,,"0.29","E",,
+"41","'156","China, mainland","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","0.48","E",,,,,,,"0.59","E",,
+"41","'156","China, mainland","7011","Cost of fruits","6226","Value","PPP dollar per person per day","0.62","E",,,,,,,"0.73","E",,
+"41","'156","China, mainland","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.09","E",,,,,,,"0.13","E",,
+"41","'156","China, mainland","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%","28.2","E","24.4","E","22","E","23","E","17.6","E","17.5","E"
+"41","'156","China, mainland","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No","398.1","E","346.2","E","313.1","E","327.6","E","251.3","E","249.3","E"
+"214","'158","China, Taiwan Province of","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","3.99","E",,"O",,"O",,"O","4.97","E",,"O"
+"214","'158","China, Taiwan Province of","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.86","E",,,,,,,"1.05","E",,
+"214","'158","China, Taiwan Province of","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","0.91","E",,,,,,,"1.29","E",,
+"214","'158","China, Taiwan Province of","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.47","E",,,,,,,"0.57","E",,
+"214","'158","China, Taiwan Province of","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","0.86","E",,,,,,,"1.15","E",,
+"214","'158","China, Taiwan Province of","7011","Cost of fruits","6226","Value","PPP dollar per person per day","0.75","E",,,,,,,"0.75","E",,
+"214","'158","China, Taiwan Province of","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.13","E",,,,,,,"0.15","E",,
+"214","'158","China, Taiwan Province of","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%","5.3","E",,"O",,"O",,"O","4.5","E",,"O"
+"214","'158","China, Taiwan Province of","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No","1.2","E",,"O",,"O",,"O","1.1","E",,"O"
+"50","'196","Cyprus","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","2.89","E","2.93","E","3.04","E","3.14","E","3.19","E","3.53","E"
+"50","'196","Cyprus","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.42","E",,,,,,,"0.46","E",,
+"50","'196","Cyprus","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","0.7","E",,,,,,,"0.81","E",,
+"50","'196","Cyprus","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.28","E",,,,,,,"0.33","E",,
+"50","'196","Cyprus","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","0.65","E",,,,,,,"0.74","E",,
+"50","'196","Cyprus","7011","Cost of fruits","6226","Value","PPP dollar per person per day","0.72","E",,,,,,,"0.75","E",,
+"50","'196","Cyprus","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.08","E",,,,,,,"0.1","E",,
+"50","'196","Cyprus","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%","4","E","2.7","E","2.6","E","2.2","E","2.3","E","1.8","E"
+"50","'196","Cyprus","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No","<0.1","E","<0.1","E","<0.1","E","<0.1","E","<0.1","E","<0.1","E"
+"100","'356","India","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","2.86","E","2.87","E","2.92","E","3.01","E","3.11","E","3.36","E"
+"100","'356","India","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.41","E",,,,,,,"0.42","E",,
+"100","'356","India","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","0.89","E",,,,,,,"0.91","E",,
+"100","'356","India","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.29","E",,,,,,,"0.37","E",,
+"100","'356","India","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","0.59","E",,,,,,,"0.64","E",,
+"100","'356","India","7011","Cost of fruits","6226","Value","PPP dollar per person per day","0.5","E",,,,,,,"0.53","E",,
+"100","'356","India","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.14","E",,,,,,,"0.24","E",,
+"100","'356","India","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%","69.5","E","62.5","E","57.1","E","61.2","E","59","E","55.6","E"
+"100","'356","India","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No","941.1","E","855.3","E","789.3","E","854.9","E","830.9","E","788.2","E"
+"101","'360","Indonesia","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","3.69","E","3.82","E","3.83","E","3.98","E","4.22","E","4.64","E"
+"101","'360","Indonesia","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.69","E",,,,,,,"0.69","E",,
+"101","'360","Indonesia","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","0.93","E",,,,,,,"1.25","E",,
+"101","'360","Indonesia","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.43","E",,,,,,,"0.46","E",,
+"101","'360","Indonesia","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","1.16","E",,,,,,,"0.78","E",,
+"101","'360","Indonesia","7011","Cost of fruits","6226","Value","PPP dollar per person per day","0.79","E",,,,,,,"0.91","E",,
+"101","'360","Indonesia","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.13","E",,,,,,,"0.13","E",,
+"101","'360","Indonesia","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%","51.4","E","48.9","E","47.1","E","46.8","E","46.6","E","46.5","E"
+"101","'360","Indonesia","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No","135.9","E","130.7","E","127.1","E","127.2","E","127.6","E","128","E"
+"102","'364","Iran (Islamic Republic of)","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","3.01","E","3.21","E","3.64","E","3.6","E","4.17","E","5.13","E"
+"102","'364","Iran (Islamic Republic of)","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.44","E",,,,,,,,"O",,
+"102","'364","Iran (Islamic Republic of)","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","0.7","E",,,,,,,,"O",,
+"102","'364","Iran (Islamic Republic of)","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.58","E",,,,,,,,"O",,
+"102","'364","Iran (Islamic Republic of)","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","0.49","E",,,,,,,,"O",,
+"102","'364","Iran (Islamic Republic of)","7011","Cost of fruits","6226","Value","PPP dollar per person per day","0.63","E",,,,,,,,"O",,
+"102","'364","Iran (Islamic Republic of)","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.17","E",,,,,,,,"O",,
+"102","'364","Iran (Islamic Republic of)","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%","7.7","E","9.2","E","14.6","E","14.8","E","15","E","15.8","E"
+"102","'364","Iran (Islamic Republic of)","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No","6.5","E","7.9","E","12.6","E","12.9","E","13.2","E","14","E"
+"103","'368","Iraq","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","3.38","E","3.47","E","3.54","E","3.54","E","3.67","E","4.03","E"
+"103","'368","Iraq","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.64","E",,,,,,,"0.62","E",,
+"103","'368","Iraq","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","1","E",,,,,,,"1.38","E",,
+"103","'368","Iraq","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.29","E",,,,,,,"0.36","E",,
+"103","'368","Iraq","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","0.67","E",,,,,,,"0.57","E",,
+"103","'368","Iraq","7011","Cost of fruits","6226","Value","PPP dollar per person per day","0.65","E",,,,,,,"0.58","E",,
+"103","'368","Iraq","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.13","E",,,,,,,"0.15","E",,
+"103","'368","Iraq","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%","23.1","E","23.1","E","21.9","E","28.5","E","28.4","E","26.7","E"
+"103","'368","Iraq","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No","9.2","E","9.4","E","9.1","E","12.1","E","12.4","E","11.9","E"
+"105","'376","Israel","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","2.51","E","2.58","E","2.6","E","2.61","E","2.75","E","3.02","E"
+"105","'376","Israel","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.34","E",,,,,,,"0.41","E",,
+"105","'376","Israel","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","0.84","E",,,,,,,"0.71","E",,
+"105","'376","Israel","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.22","E",,,,,,,"0.27","E",,
+"105","'376","Israel","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","0.4","E",,,,,,,"0.57","E",,
+"105","'376","Israel","7011","Cost of fruits","6226","Value","PPP dollar per person per day","0.56","E",,,,,,,"0.71","E",,
+"105","'376","Israel","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.07","E",,,,,,,"0.08","E",,
+"105","'376","Israel","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%","19.2","E","18.2","E","19.5","E","19","E","18","E","16.5","E"
+"105","'376","Israel","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No","1.6","E","1.5","E","1.7","E","1.7","E","1.6","E","1.5","E"
+"110","'392","Japan","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","5.48","E","5.65","E","5.57","E","5.8","E","5.91","E","6.54","E"
+"110","'392","Japan","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","1.48","E",,,,,,,"1.45","E",,
+"110","'392","Japan","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","0.89","E",,,,,,,"1.01","E",,
+"110","'392","Japan","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.51","E",,,,,,,"0.52","E",,
+"110","'392","Japan","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","1.57","E",,,,,,,"1.55","E",,
+"110","'392","Japan","7011","Cost of fruits","6226","Value","PPP dollar per person per day","1","E",,,,,,,"1.29","E",,
+"110","'392","Japan","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.09","E",,,,,,,"0.1","E",,
+"110","'392","Japan","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%","7.2","E","7.2","E","7.2","E","8","E","7.6","E","7.5","E"
+"110","'392","Japan","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No","9.1","E","9.1","E","9","E","10","E","9.5","E","9.3","E"
+"112","'400","Jordan","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","2.94","E","2.98","E","3.01","E","3.12","E","3.22","E","3.45","E"
+"112","'400","Jordan","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.4","E",,,,,,,"0.62","E",,
+"112","'400","Jordan","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","1.29","E",,,,,,,"0.93","E",,
+"112","'400","Jordan","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.32","E",,,,,,,"0.33","E",,
+"112","'400","Jordan","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","0.67","E",,,,,,,"0.6","E",,
+"112","'400","Jordan","7011","Cost of fruits","6226","Value","PPP dollar per person per day","0.6","E",,,,,,,"0.63","E",,
+"112","'400","Jordan","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.13","E",,,,,,,"0.12","E",,
+"112","'400","Jordan","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%","13","E","12.9","E","12.9","E","14.4","E","13.6","E","13","E"
+"112","'400","Jordan","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No","1.3","E","1.3","E","1.4","E","1.6","E","1.5","E","1.5","E"
+"108","'398","Kazakhstan","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","2.12","E","2.15","E","2.24","E","2.35","E","2.52","E","2.79","E"
+"108","'398","Kazakhstan","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.43","E",,,,,,,"0.53","E",,
+"108","'398","Kazakhstan","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","0.67","E",,,,,,,"0.67","E",,
+"108","'398","Kazakhstan","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.47","E",,,,,,,"0.23","E",,
+"108","'398","Kazakhstan","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","0.34","E",,,,,,,"0.3","E",,
+"108","'398","Kazakhstan","7011","Cost of fruits","6226","Value","PPP dollar per person per day","0.36","E",,,,,,,"0.62","E",,
+"108","'398","Kazakhstan","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.12","E",,,,,,,"0.17","E",,
+"108","'398","Kazakhstan","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%","9.3","E","6.3","E","6.9","E","6.6","E","5.2","E","5.6","E"
+"108","'398","Kazakhstan","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No","1.7","E","1.2","E","1.3","E","1.3","E","1","E","1.1","E"
+"118","'414","Kuwait","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","2.17","E","2.21","E","2.25","E","2.34","E","2.59","E","2.89","E"
+"118","'414","Kuwait","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.25","E",,,,,,,"0.33","E",,
+"118","'414","Kuwait","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","1.02","E",,,,,,,"0.45","E",,
+"118","'414","Kuwait","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.33","E",,,,,,,"0.13","E",,
+"118","'414","Kuwait","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","0.92","E",,,,,,,"0.91","E",,
+"118","'414","Kuwait","7011","Cost of fruits","6226","Value","PPP dollar per person per day","0.64","E",,,,,,,"0.61","E",,
+"118","'414","Kuwait","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.17","E",,,,,,,"0.15","E",,
+"118","'414","Kuwait","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%",,"O",,"O",,"O",,"O",,"O",,"O"
+"118","'414","Kuwait","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No",,"O",,"O",,"O",,"O",,"O",,"O"
+"113","'417","Kyrgyzstan","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","3.23","E","3.19","E","3.25","E","3.46","E","3.81","E","4.2","E"
+"113","'417","Kyrgyzstan","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.53","E",,,,,,,"0.68","E",,
+"113","'417","Kyrgyzstan","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","0.8","E",,,,,,,"0.94","E",,
+"113","'417","Kyrgyzstan","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.56","E",,,,,,,"0.4","E",,
+"113","'417","Kyrgyzstan","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","0.45","E",,,,,,,"0.55","E",,
+"113","'417","Kyrgyzstan","7011","Cost of fruits","6226","Value","PPP dollar per person per day","0.47","E",,,,,,,"1.02","E",,
+"113","'417","Kyrgyzstan","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.17","E",,,,,,,"0.23","E",,
+"113","'417","Kyrgyzstan","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%","40.9","E","34","E","31","E","41","E","36.7","E","35.9","E"
+"113","'417","Kyrgyzstan","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No","2.5","E","2.1","E","2","E","2.6","E","2.4","E","2.4","E"
+"120","'418","Lao People's Democratic Republic","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","3.8","E","3.86","E","3.99","E","4.17","E","4.34","E","4.65","E"
+"120","'418","Lao People's Democratic Republic","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.48","E",,,,,,,"0.82","E",,
+"120","'418","Lao People's Democratic Republic","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","1.1","E",,,,,,,"1.19","E",,
+"120","'418","Lao People's Democratic Republic","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.39","E",,,,,,,"0.38","E",,
+"120","'418","Lao People's Democratic Republic","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","0.89","E",,,,,,,"0.73","E",,
+"120","'418","Lao People's Democratic Republic","7011","Cost of fruits","6226","Value","PPP dollar per person per day","0.74","E",,,,,,,"1.02","E",,
+"120","'418","Lao People's Democratic Republic","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.17","E",,,,,,,"0.2","E",,
+"120","'418","Lao People's Democratic Republic","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%","59.2","E","57.7","E","56.9","E","58.7","E","58","E","57.1","E"
+"120","'418","Lao People's Democratic Republic","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No","4.1","E","4.1","E","4.1","E","4.3","E","4.3","E","4.3","E"
+"131","'458","Malaysia","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","2.99","E","3.08","E","3.16","E","3.28","E","3.41","E","3.77","E"
+"131","'458","Malaysia","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.46","E",,,,,,,"0.56","E",,
+"131","'458","Malaysia","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","0.83","E",,,,,,,"0.81","E",,
+"131","'458","Malaysia","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.29","E",,,,,,,"0.33","E",,
+"131","'458","Malaysia","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","0.65","E",,,,,,,"0.71","E",,
+"131","'458","Malaysia","7011","Cost of fruits","6226","Value","PPP dollar per person per day","0.93","E",,,,,,,"0.85","E",,
+"131","'458","Malaysia","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.07","E",,,,,,,"0.14","E",,
+"131","'458","Malaysia","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%","4","E","3.4","E","2.6","E","3.1","E","2.8","E","1.8","E"
+"131","'458","Malaysia","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No","1.3","E","1.1","E","0.9","E","1","E","0.9","E","0.6","E"
+"132","'462","Maldives","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","3.45","E","3.5","E","3.53","E","3.72","E","3.95","E","4.36","E"
+"132","'462","Maldives","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.24","E",,,,,,,"0.18","E",,
+"132","'462","Maldives","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","0.91","E",,,,,,,"0.93","E",,
+"132","'462","Maldives","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.41","E",,,,,,,"0.45","E",,
+"132","'462","Maldives","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","1.07","E",,,,,,,"1.26","E",,
+"132","'462","Maldives","7011","Cost of fruits","6226","Value","PPP dollar per person per day","0.86","E",,,,,,,"0.99","E",,
+"132","'462","Maldives","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.1","E",,,,,,,"0.14","E",,
+"132","'462","Maldives","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%","4.9","E","3.5","E","2.1","E","8.8","E","3","E","1.6","E"
+"132","'462","Maldives","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No","<0.1","E","<0.1","E","<0.1","E","<0.1","E","<0.1","E","<0.1","E"
+"141","'496","Mongolia","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","4.21","E","4.33","E","4.54","E","4.74","E","5.26","E","5.86","E"
+"141","'496","Mongolia","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.55","E",,,,,,,"0.5","E",,
+"141","'496","Mongolia","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","0.76","E",,,,,,,"0.84","E",,
+"141","'496","Mongolia","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.47","E",,,,,,,"0.49","E",,
+"141","'496","Mongolia","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","0.68","E",,,,,,,"0.85","E",,
+"141","'496","Mongolia","7011","Cost of fruits","6226","Value","PPP dollar per person per day","1.92","E",,,,,,,"2.38","E",,
+"141","'496","Mongolia","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.17","E",,,,,,,"0.21","E",,
+"141","'496","Mongolia","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%","29.7","E","27.9","E","24.5","E","24.9","E","23.5","E","19.6","E"
+"141","'496","Mongolia","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No","0.9","E","0.9","E","0.8","E","0.8","E","0.8","E","0.7","E"
+"28","'104","Myanmar","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","3.71","E","3.79","E","3.86","E","3.94","E","4.25","E","4.56","E"
+"28","'104","Myanmar","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.64","E",,,,,,,,"O",,
+"28","'104","Myanmar","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","1.03","E",,,,,,,,"O",,
+"28","'104","Myanmar","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.37","E",,,,,,,,"O",,
+"28","'104","Myanmar","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","0.91","E",,,,,,,,"O",,
+"28","'104","Myanmar","7011","Cost of fruits","6226","Value","PPP dollar per person per day","0.64","E",,,,,,,,"O",,
+"28","'104","Myanmar","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.11","E",,,,,,,,"O",,
+"28","'104","Myanmar","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%","47.6","E","44.4","E","43.5","E","50.1","E","57.4","E","56.3","E"
+"28","'104","Myanmar","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No","24.9","E","23.4","E","23.1","E","26.7","E","30.9","E","30.5","E"
+"149","'524","Nepal","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","3.3","E","3.34","E","3.41","E","3.52","E","3.69","E","3.97","E"
+"149","'524","Nepal","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.51","E",,,,,,,"0.6","E",,
+"149","'524","Nepal","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","1.38","E",,,,,,,"0.92","E",,
+"149","'524","Nepal","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.34","E",,,,,,,"0.39","E",,
+"149","'524","Nepal","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","0.71","E",,,,,,,"0.79","E",,
+"149","'524","Nepal","7011","Cost of fruits","6226","Value","PPP dollar per person per day","1.03","E",,,,,,,"0.72","E",,
+"149","'524","Nepal","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.17","E",,,,,,,"0.27","E",,
+"149","'524","Nepal","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%","47.3","E","43.8","E","43.5","E","44.7","E","43.6","E","41.1","E"
+"149","'524","Nepal","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No","13.3","E","12.5","E","12.5","E","13.1","E","13.1","E","12.6","E"
+"221","'512","Oman","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","2.32","E","2.34","E","2.41","E","2.49","E","2.59","E","2.87","E"
+"221","'512","Oman","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.5","E",,,,,,,"0.34","E",,
+"221","'512","Oman","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","0.84","E",,,,,,,"0.82","E",,
+"221","'512","Oman","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.35","E",,,,,,,"0.37","E",,
+"221","'512","Oman","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","0.6","E",,,,,,,"0.47","E",,
+"221","'512","Oman","7011","Cost of fruits","6226","Value","PPP dollar per person per day","0.38","E",,,,,,,"0.44","E",,
+"221","'512","Oman","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.15","E",,,,,,,"0.15","E",,
+"221","'512","Oman","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%",,"O",,"O",,"O",,"O",,"O",,"O"
+"221","'512","Oman","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No",,"O",,"O",,"O",,"O",,"O",,"O"
+"165","'586","Pakistan","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","2.92","E","2.91","E","2.97","E","3.16","E","3.34","E","3.76","E"
+"165","'586","Pakistan","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.41","E",,,,,,,"0.46","E",,
+"165","'586","Pakistan","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","1.02","E",,,,,,,"1.1","E",,
+"165","'586","Pakistan","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.34","E",,,,,,,"0.33","E",,
+"165","'586","Pakistan","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","0.52","E",,,,,,,"0.39","E",,
+"165","'586","Pakistan","7011","Cost of fruits","6226","Value","PPP dollar per person per day","0.92","E",,,,,,,"0.78","E",,
+"165","'586","Pakistan","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.19","E",,,,,,,"0.28","E",,
+"165","'586","Pakistan","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%","57.8","E","56.5","E","58.1","E","60.2","E","58.7","E","58.7","E"
+"165","'586","Pakistan","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No","125.1","E","124.2","E","129.7","E","136.8","E","135.8","E","138.3","E"
+"299","'275","Palestine","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","2.62","E","2.66","E","2.74","E","2.63","E","2.58","E","2.98","E"
+"299","'275","Palestine","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.65","E",,,,,,,"0.56","E",,
+"299","'275","Palestine","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","1.13","E",,,,,,,"0.72","E",,
+"299","'275","Palestine","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.19","E",,,,,,,"0.25","E",,
+"299","'275","Palestine","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","0.56","E",,,,,,,"0.43","E",,
+"299","'275","Palestine","7011","Cost of fruits","6226","Value","PPP dollar per person per day","0.69","E",,,,,,,"0.46","E",,
+"299","'275","Palestine","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.12","E",,,,,,,"0.15","E",,
+"299","'275","Palestine","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%","5","E","5.1","E","5.5","E","6.8","E","5.4","E","4.4","E"
+"299","'275","Palestine","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No","0.2","E","0.2","E","0.3","E","0.3","E","0.3","E","0.2","E"
+"171","'608","Philippines","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","3.38","E","3.51","E","3.57","E","3.62","E","3.84","E","4.1","E"
+"171","'608","Philippines","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.68","E",,,,,,,"0.68","E",,
+"171","'608","Philippines","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","1.09","E",,,,,,,"0.8","E",,
+"171","'608","Philippines","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.32","E",,,,,,,"0.37","E",,
+"171","'608","Philippines","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","0.95","E",,,,,,,"1.02","E",,
+"171","'608","Philippines","7011","Cost of fruits","6226","Value","PPP dollar per person per day","0.59","E",,,,,,,"0.77","E",,
+"171","'608","Philippines","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.2","E",,,,,,,"0.2","E",,
+"171","'608","Philippines","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%","48.1","E","46.9","E","45.7","E","51.9","E","51.4","E","48.1","E"
+"171","'608","Philippines","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No","51.3","E","50.9","E","50.4","E","58.2","E","58.5","E","55.6","E"
+"179","'634","Qatar","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","2.31","E","2.36","E","2.42","E","2.51","E","2.63","E","2.82","E"
+"179","'634","Qatar","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.34","E",,,,,,,"0.56","E",,
+"179","'634","Qatar","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","0.68","E",,,,,,,"0.72","E",,
+"179","'634","Qatar","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.31","E",,,,,,,"0.25","E",,
+"179","'634","Qatar","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","0.49","E",,,,,,,"0.49","E",,
+"179","'634","Qatar","7011","Cost of fruits","6226","Value","PPP dollar per person per day","0.48","E",,,,,,,"0.46","E",,
+"179","'634","Qatar","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.07","E",,,,,,,"0.15","E",,
+"179","'634","Qatar","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%",,"O",,"O",,"O",,"O",,"O",,"O"
+"179","'634","Qatar","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No",,"O",,"O",,"O",,"O",,"O",,"O"
+"117","'410","Republic of Korea","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","4.73","E","4.92","E","4.9","E","5.18","E","5.57","E","6.09","E"
+"117","'410","Republic of Korea","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.49","E",,,,,,,"0.5","E",,
+"117","'410","Republic of Korea","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","1.19","E",,,,,,,"1.44","E",,
+"117","'410","Republic of Korea","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.37","E",,,,,,,"0.5","E",,
+"117","'410","Republic of Korea","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","1.26","E",,,,,,,"1.63","E",,
+"117","'410","Republic of Korea","7011","Cost of fruits","6226","Value","PPP dollar per person per day","1.33","E",,,,,,,"1.4","E",,
+"117","'410","Republic of Korea","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.08","E",,,,,,,"0.11","E",,
+"117","'410","Republic of Korea","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%","10.5","E","9.7","E","9.2","E","10.7","E","10","E","9","E"
+"117","'410","Republic of Korea","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No","5.4","E","5","E","4.8","E","5.6","E","5.2","E","4.7","E"
+"194","'682","Saudi Arabia","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","2.49","E","2.65","E","2.82","E","3","E","3.22","E","3.52","E"
+"194","'682","Saudi Arabia","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.46","E",,,,,,,"0.27","E",,
+"194","'682","Saudi Arabia","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","1.03","E",,,,,,,"1.02","E",,
+"194","'682","Saudi Arabia","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.3","E",,,,,,,"0.43","E",,
+"194","'682","Saudi Arabia","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","0.74","E",,,,,,,"0.45","E",,
+"194","'682","Saudi Arabia","7011","Cost of fruits","6226","Value","PPP dollar per person per day","0.74","E",,,,,,,"0.8","E",,
+"194","'682","Saudi Arabia","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.17","E",,,,,,,"0.24","E",,
+"194","'682","Saudi Arabia","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%",,"O",,"O",,"O",,"O",,"O",,"O"
+"194","'682","Saudi Arabia","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No",,"O",,"O",,"O",,"O",,"O",,"O"
+"200","'702","Singapore","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","2.83","E","2.92","E","2.99","E","3.12","E","3.24","E","3.48","E"
+"200","'702","Singapore","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.52","E",,,,,,,"0.53","E",,
+"200","'702","Singapore","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","0.61","E",,,,,,,"0.67","E",,
+"200","'702","Singapore","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.32","E",,,,,,,"0.35","E",,
+"200","'702","Singapore","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","0.6","E",,,,,,,"0.76","E",,
+"200","'702","Singapore","7011","Cost of fruits","6226","Value","PPP dollar per person per day","0.61","E",,,,,,,"0.81","E",,
+"200","'702","Singapore","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.1","E",,,,,,,"0.12","E",,
+"200","'702","Singapore","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%",,"O",,"O",,"O",,"O",,"O",,"O"
+"200","'702","Singapore","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No",,"O",,"O",,"O",,"O",,"O",,"O"
+"38","'144","Sri Lanka","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","3.58","E","3.58","E","3.54","E","3.79","E","4.13","E","4.77","E"
+"38","'144","Sri Lanka","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.49","E",,,,,,,"0.53","E",,
+"38","'144","Sri Lanka","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","1","E",,,,,,,"1.01","E",,
+"38","'144","Sri Lanka","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.19","E",,,,,,,"0.24","E",,
+"38","'144","Sri Lanka","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","0.8","E",,,,,,,"0.93","E",,
+"38","'144","Sri Lanka","7011","Cost of fruits","6226","Value","PPP dollar per person per day","0.9","E",,,,,,,"0.97","E",,
+"38","'144","Sri Lanka","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.32","E",,,,,,,"0.43","E",,
+"38","'144","Sri Lanka","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%","32.2","E","29","E","28.5","E","33.4","E","34","E","41.1","E"
+"38","'144","Sri Lanka","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No","6.9","E","6.3","E","6.2","E","7.2","E","7.4","E","9","E"
+"208","'762","Tajikistan","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","3.11","E","3.12","E","3.29","E","3.57","E","3.71","E","3.9","E"
+"208","'762","Tajikistan","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.55","E",,,,,,,"0.76","E",,
+"208","'762","Tajikistan","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","0.82","E",,,,,,,"0.99","E",,
+"208","'762","Tajikistan","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.44","E",,,,,,,"0.27","E",,
+"208","'762","Tajikistan","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","0.43","E",,,,,,,"0.53","E",,
+"208","'762","Tajikistan","7011","Cost of fruits","6226","Value","PPP dollar per person per day","0.63","E",,,,,,,"0.89","E",,
+"208","'762","Tajikistan","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.16","E",,,,,,,"0.27","E",,
+"208","'762","Tajikistan","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%","37.8","E","34.3","E","33.9","E","35.7","E","32.5","E","28.6","E"
+"208","'762","Tajikistan","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No","3.4","E","3.1","E","3.2","E","3.4","E","3.2","E","2.9","E"
+"216","'764","Thailand","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","4.03","E","4.1","E","4.25","E","4.39","E","4.53","E","4.93","E"
+"216","'764","Thailand","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.9","E",,,,,,,"0.82","E",,
+"216","'764","Thailand","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","0.94","E",,,,,,,"0.89","E",,
+"216","'764","Thailand","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.49","E",,,,,,,"0.98","E",,
+"216","'764","Thailand","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","0.75","E",,,,,,,"0.89","E",,
+"216","'764","Thailand","7011","Cost of fruits","6226","Value","PPP dollar per person per day","0.79","E",,,,,,,"0.79","E",,
+"216","'764","Thailand","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.11","E",,,,,,,"0.15","E",,
+"216","'764","Thailand","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%","21.1","E","21.9","E","19.6","E","19.7","E","18.3","E","16.4","E"
+"216","'764","Thailand","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No","14.9","E","15.6","E","14","E","14.1","E","13.1","E","11.7","E"
+"223","'792","Türkiye","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","3.44","E","3.58","E","3.87","E","3.71","E","3.82","E","4.5","E"
+"223","'792","Türkiye","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.36","E",,,,,,,"0.51","E",,
+"223","'792","Türkiye","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","0.82","E",,,,,,,"1.14","E",,
+"223","'792","Türkiye","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.27","E",,,,,,,"0.42","E",,
+"223","'792","Türkiye","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","0.45","E",,,,,,,"0.6","E",,
+"223","'792","Türkiye","7011","Cost of fruits","6226","Value","PPP dollar per person per day","0.85","E",,,,,,,"0.97","E",,
+"223","'792","Türkiye","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.13","E",,,,,,,"0.19","E",,
+"223","'792","Türkiye","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%","11.7","E","12.3","E","14.7","E","10.9","E","8.7","E","6.1","E"
+"223","'792","Türkiye","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No","9.6","E","10.2","E","12.3","E","9.1","E","7.4","E","5.2","E"
+"225","'784","United Arab Emirates","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","2.42","E","2.5","E","2.55","E","2.74","E","2.86","E","3.14","E"
+"225","'784","United Arab Emirates","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.39","E",,,,,,,"0.45","E",,
+"225","'784","United Arab Emirates","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","0.86","E",,,,,,,"0.99","E",,
+"225","'784","United Arab Emirates","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.27","E",,,,,,,"0.35","E",,
+"225","'784","United Arab Emirates","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","0.53","E",,,,,,,"0.32","E",,
+"225","'784","United Arab Emirates","7011","Cost of fruits","6226","Value","PPP dollar per person per day","0.56","E",,,,,,,"0.48","E",,
+"225","'784","United Arab Emirates","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.15","E",,,,,,,"0.26","E",,
+"225","'784","United Arab Emirates","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%","1","E","2.5","E","2.1","E","<0.1","E","<0.1","E","2.3","E"
+"225","'784","United Arab Emirates","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No","0.1","E","0.2","E","0.2","E","<0.1","E","<0.1","E","0.2","E"
+"237","'704","Viet Nam","7004","Cost of a healthy diet (PPP dollar per person per day)","6226","Value","PPP dollar per person per day","3.14","E","3.2","E","3.3","E","3.56","E","3.69","E","3.96","E"
+"237","'704","Viet Nam","7007","Cost of starchy staples","6226","Value","PPP dollar per person per day","0.58","E",,,,,,,"0.69","E",,
+"237","'704","Viet Nam","7008","Cost of animal source foods","6226","Value","PPP dollar per person per day","1.18","E",,,,,,,"1.24","E",,
+"237","'704","Viet Nam","7009","Cost of legumes, nuts and seeds","6226","Value","PPP dollar per person per day","0.31","E",,,,,,,"0.37","E",,
+"237","'704","Viet Nam","7010","Cost of vegetables","6226","Value","PPP dollar per person per day","0.77","E",,,,,,,"0.62","E",,
+"237","'704","Viet Nam","7011","Cost of fruits","6226","Value","PPP dollar per person per day","0.56","E",,,,,,,"0.59","E",,
+"237","'704","Viet Nam","7012","Cost of oils and fats","6226","Value","PPP dollar per person per day","0.19","E",,,,,,,"0.18","E",,
+"237","'704","Viet Nam","7005","Percentage of the population unable to afford a healthy diet (percent)","6121","Value","%","11.2","E","10.1","E","8.5","E","9.3","E","9.6","E","9.4","E"
+"237","'704","Viet Nam","7006","Number of people unable to afford a healthy diet (million)","6132","Value","million No","10.5","E","9.6","E","8.1","E","9","E","9.4","E","9.2","E"
